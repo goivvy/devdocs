@@ -57,9 +57,9 @@ You should also consider upgrading to a later version of CentOS that has the des
 
 * If you're setting up a development system, you can use any repository you wish.
 
-In this topic, we show how to install PHP using the [Inline with Upstream Stable (IUS)](https://ius.io/GettingStarted){:target="_blank"} repository, which is *not* on the CentOS recommended list. However, packages installed from IUS do not use the same names as CentOS-provided packages, so [no existing system packages are replaced](https://ius.io/Philosophy){:target="_blank"}.
+In this topic, we show how to install PHP using the [Inline with Upstream Stable (IUS)](https://ius.io){:target="_blank"} repository, which is *not* on the CentOS recommended list. However, packages installed from IUS do not use the same names as CentOS-provided packages, so [no existing system packages are replaced](https://ius.io/about){:target="_blank"}.
 
-Before you continue, review their [Getting Started topic](https://ius.io/GettingStarted){:target="_blank"}.
+Before you continue, review their [Getting Started topic](https://ius.io/setup){:target="_blank"}.
 
 {:.bs-callout .bs-callout-warning}
 Magento does **not** officially recommend using the IUS repository. We discuss it here for example purposes only.
